@@ -1,0 +1,32 @@
+html
+body{
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ac8968; 
+    flex-direction: column;
+
+
+}
+
+
+.form-container{
+    background-color: #865d36;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    flex-direction: column;
+    margin-bottom: 15px;
+    padding: 10px 20px;
+}
+
+h2{
+    color: 3E362E;
+}
+
+.urlimage{
+    width: 300px;
+    background-color: black ;
+}
